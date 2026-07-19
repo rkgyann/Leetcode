@@ -21,6 +21,7 @@ Leetcode Questions Practice
 | [0004-median-of-two-sorted-arrays](https://github.com/rkgyann/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/rkgyann/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/rkgyann/Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/rkgyann/Leetcode/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,4 +35,8 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rkgyann/Leetcode/tree/master/0027-remove-element) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/rkgyann/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
