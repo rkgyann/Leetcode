@@ -22,6 +22,7 @@ Leetcode Questions Practice
 | [0027-remove-element](https://github.com/rkgyann/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/rkgyann/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rkgyann/Leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/rkgyann/Leetcode/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,4 +40,8 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/rkgyann/Leetcode/tree/master/0066-plus-one) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rkgyann/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
