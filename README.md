@@ -7,6 +7,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rkgyann/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/rkgyann/Leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Leetcode Questions Practice
 | [0035-search-insert-position](https://github.com/rkgyann/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rkgyann/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/rkgyann/Leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/rkgyann/Leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,4 +46,8 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rkgyann/Leetcode/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/rkgyann/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
