@@ -1,18 +1,19 @@
-import java.util.HashMap;
+import java.util.TreeSet;
 
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
 
-        HashMap<Integer, Integer> map = new HashMap<>();
+        TreeSet<Integer> set = new TreeSet<>();
 
-        for (int i = 0; i < nums.length; i++) {
+        for(int i=0;i<nums.length;i++){
 
-            if (map.containsKey(nums[i])) {
-                if (i - map.get(nums[i]) <= k)
-                    return true;
-            }
+            if(set.contains(nums[i]))
+                return true;
 
-            map.put(nums[i], i);
+            set.add(nums[i]);
+
+            if(i>=k)
+                set.remove(nums[i-k]);
         }
 
         return false;
