@@ -7,6 +7,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rkgyann/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/rkgyann/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rkgyann/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rkgyann/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## String
@@ -26,6 +27,7 @@ Leetcode Questions Practice
 | [0035-search-insert-position](https://github.com/rkgyann/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rkgyann/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/rkgyann/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/rkgyann/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rkgyann/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rkgyann/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
@@ -37,6 +39,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rkgyann/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/rkgyann/Leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,5 +55,10 @@ Leetcode Questions Practice
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rkgyann/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rkgyann/Leetcode/tree/master/0217-contains-duplicate) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rkgyann/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
