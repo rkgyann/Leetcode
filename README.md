@@ -14,6 +14,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rkgyann/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/rkgyann/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rkgyann/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/rkgyann/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/rkgyann/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/rkgyann/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rkgyann/Leetcode/tree/master/0066-plus-one) |
@@ -61,4 +63,8 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rkgyann/Leetcode/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rkgyann/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
