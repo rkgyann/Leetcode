@@ -28,6 +28,7 @@ Leetcode Questions Practice
 | [0027-remove-element](https://github.com/rkgyann/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/rkgyann/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rkgyann/Leetcode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rkgyann/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rkgyann/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rkgyann/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rkgyann/Leetcode/tree/master/0217-contains-duplicate) |
@@ -67,4 +68,8 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rkgyann/Leetcode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rkgyann/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
