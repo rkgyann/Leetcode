@@ -8,7 +8,7 @@ class Solution {
         }
         if(x1>Integer.MAX_VALUE || x1 < Integer.MIN_VALUE)
         return 0;
-        else
+        
         return (int)x1;
     }
 }
