@@ -55,6 +55,7 @@ Leetcode Questions Practice
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/rkgyann/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/rkgyann/Leetcode/tree/master/0066-plus-one) |
 ## Bit Manipulation
 |  |
