@@ -33,6 +33,7 @@ Leetcode Questions Practice
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rkgyann/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rkgyann/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rkgyann/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/rkgyann/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rkgyann/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rkgyann/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1288-remove-covered-intervals](https://github.com/rkgyann/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -53,6 +54,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rkgyann/Leetcode/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/rkgyann/Leetcode/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Leetcode Questions Practice
 | [0050-powx-n](https://github.com/rkgyann/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rkgyann/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rkgyann/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/rkgyann/Leetcode/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
