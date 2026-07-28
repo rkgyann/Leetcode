@@ -31,6 +31,7 @@ Leetcode Questions Practice
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rkgyann/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rkgyann/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/rkgyann/Leetcode/tree/master/0041-first-missing-positive) |
+| [0064-minimum-path-sum](https://github.com/rkgyann/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/rkgyann/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rkgyann/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rkgyann/Leetcode/tree/master/0136-single-number) |
@@ -87,6 +88,7 @@ Leetcode Questions Practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/rkgyann/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rkgyann/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/rkgyann/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -98,4 +100,8 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rkgyann/Leetcode/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/rkgyann/Leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
