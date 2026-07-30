@@ -42,6 +42,7 @@ Leetcode Questions Practice
 | [0189-rotate-array](https://github.com/rkgyann/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rkgyann/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rkgyann/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rkgyann/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1288-remove-covered-intervals](https://github.com/rkgyann/Leetcode/tree/master/1288-remove-covered-intervals) |
 ## Binary Search
 |  |
@@ -51,11 +52,13 @@ Leetcode Questions Practice
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rkgyann/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rkgyann/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rkgyann/Leetcode/tree/master/0069-sqrtx) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rkgyann/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rkgyann/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/rkgyann/Leetcode/tree/master/0169-majority-element) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rkgyann/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,4 +116,20 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/rkgyann/Leetcode/tree/master/0064-minimum-path-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rkgyann/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rkgyann/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rkgyann/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rkgyann/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
