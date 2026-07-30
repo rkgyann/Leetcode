@@ -27,6 +27,7 @@ Leetcode Questions Practice
 | [0004-median-of-two-sorted-arrays](https://github.com/rkgyann/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/rkgyann/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/rkgyann/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rkgyann/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/rkgyann/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rkgyann/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rkgyann/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -58,6 +59,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rkgyann/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rkgyann/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/rkgyann/Leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/rkgyann/Leetcode/tree/master/0189-rotate-array) |
 ## Math
@@ -77,6 +79,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rkgyann/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rkgyann/Leetcode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/rkgyann/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rkgyann/Leetcode/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/rkgyann/Leetcode/tree/master/1288-remove-covered-intervals) |
