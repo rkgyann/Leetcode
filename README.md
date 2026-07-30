@@ -42,6 +42,7 @@ Leetcode Questions Practice
 | [0189-rotate-array](https://github.com/rkgyann/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rkgyann/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rkgyann/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/rkgyann/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/rkgyann/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rkgyann/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1288-remove-covered-intervals](https://github.com/rkgyann/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -69,6 +70,7 @@ Leetcode Questions Practice
 | [0018-4sum](https://github.com/rkgyann/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/rkgyann/Leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/rkgyann/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/rkgyann/Leetcode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
