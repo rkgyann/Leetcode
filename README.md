@@ -7,6 +7,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rkgyann/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/rkgyann/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/rkgyann/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/rkgyann/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rkgyann/Leetcode/tree/master/0217-contains-duplicate) |
@@ -34,6 +35,7 @@ Leetcode Questions Practice
 | [0033-search-in-rotated-sorted-array](https://github.com/rkgyann/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rkgyann/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rkgyann/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/rkgyann/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/rkgyann/Leetcode/tree/master/0041-first-missing-positive) |
 | [0064-minimum-path-sum](https://github.com/rkgyann/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/rkgyann/Leetcode/tree/master/0066-plus-one) |
@@ -122,6 +124,7 @@ Leetcode Questions Practice
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rkgyann/Leetcode/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/rkgyann/Leetcode/tree/master/0064-minimum-path-sum) |
 ## Binary Indexed Tree
 |  |
