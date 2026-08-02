@@ -79,6 +79,7 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rkgyann/Leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/rkgyann/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/rkgyann/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rkgyann/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rkgyann/Leetcode/tree/master/0069-sqrtx) |
@@ -87,6 +88,7 @@ Leetcode Questions Practice
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/rkgyann/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/rkgyann/Leetcode/tree/master/0136-single-number) |
 ## Sorting
 |  |
