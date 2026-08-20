@@ -12,6 +12,7 @@ Leetcode Questions Practice
 | [0169-majority-element](https://github.com/rkgyann/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rkgyann/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rkgyann/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/rkgyann/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Leetcode Questions Practice
 | [0189-rotate-array](https://github.com/rkgyann/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rkgyann/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rkgyann/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/rkgyann/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rkgyann/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/rkgyann/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rkgyann/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -57,6 +59,7 @@ Leetcode Questions Practice
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rkgyann/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rkgyann/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rkgyann/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/rkgyann/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/rkgyann/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rkgyann/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Divide and Conquer
@@ -84,12 +87,14 @@ Leetcode Questions Practice
 | [0066-plus-one](https://github.com/rkgyann/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rkgyann/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rkgyann/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/rkgyann/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/rkgyann/Leetcode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rkgyann/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/rkgyann/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/rkgyann/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +103,7 @@ Leetcode Questions Practice
 | [0018-4sum](https://github.com/rkgyann/Leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/rkgyann/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rkgyann/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/rkgyann/Leetcode/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/rkgyann/Leetcode/tree/master/1288-remove-covered-intervals) |
 ## Counting
 |  |
