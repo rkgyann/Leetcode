@@ -1,20 +1,19 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int candidate = nums[0];
-        int count = 0;
-        
-        // Phase 1: Find the majority candidate
-        for (int num : nums) {
-            if (count == 0) {
-                candidate = num;
+        int n = nums.length;
+        int i, c = 0, d = 0;
+
+        for(i = 0; i < n; i++) {
+            if(c == 0) {
+                d = nums[i];
             }
-            if (num == candidate) {
-                count++;
-            } else {
-                count--;
-            }
+
+            if(nums[i] == d)
+                c++;
+            else
+                c--;
         }
-        
-        return candidate;
+
+        return d;
     }
 }
