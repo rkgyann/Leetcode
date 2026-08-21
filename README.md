@@ -156,4 +156,8 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rkgyann/Leetcode/tree/master/0011-container-with-most-water) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rkgyann/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
