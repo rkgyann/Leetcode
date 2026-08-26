@@ -1,25 +1,21 @@
+import java.util.*;
 class Solution {
     public List<String> fizzBuzz(int n) {
         int i;
 
-        String[] answer = new String[n];
-        for (i = 0; i < n; i++) {
-            answer[i] = String.valueOf(i + 1);
+        List<String> answer=new ArrayList<>();
+
+        for (i = 1; i <=n; i++) {
+            if ((i) % 3 == 0 && (i) % 5 == 0)
+                answer.add("FizzBuzz");
+            else if ((i) % 5 == 0)
+                answer.add("Buzz");
+            else if ((i) % 3 == 0)
+                answer.add("Fizz");
+            else
+                answer.add(String.valueOf(i));
         }
 
-        for (i = 0; i < n; i++) {
-            if (n >= 3) {
-                if ((i + 1) % 5 == 0)
-                    answer[i] = "Buzz";
-                if ((i + 1) % 3 == 0)
-                    answer[i] = "Fizz";
-            }
-            if (n >= 15) {
-                if ((i + 1) % 3 == 0 && (i + 1) % 5 == 0)
-                    answer[i] = "FizzBuzz";
-            }
-        }
-
-        return List.of(answer);
+        return answer;
     }
 }
