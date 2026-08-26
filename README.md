@@ -92,6 +92,7 @@ Leetcode Questions Practice
 | [0189-rotate-array](https://github.com/rkgyann/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rkgyann/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/rkgyann/Leetcode/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/rkgyann/Leetcode/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
