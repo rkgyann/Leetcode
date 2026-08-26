@@ -20,6 +20,7 @@ Leetcode Questions Practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/rkgyann/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/rkgyann/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rkgyann/Leetcode/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/rkgyann/Leetcode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Leetcode Questions Practice
 | [0069-sqrtx](https://github.com/rkgyann/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rkgyann/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rkgyann/Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/rkgyann/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/rkgyann/Leetcode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/rkgyann/Leetcode/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
@@ -170,4 +172,8 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rkgyann/Leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/rkgyann/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
