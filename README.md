@@ -48,6 +48,7 @@ Leetcode Questions Practice
 | [0136-single-number](https://github.com/rkgyann/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rkgyann/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rkgyann/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/rkgyann/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/rkgyann/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rkgyann/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/rkgyann/Leetcode/tree/master/0268-missing-number) |
@@ -91,6 +92,7 @@ Leetcode Questions Practice
 | [0066-plus-one](https://github.com/rkgyann/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rkgyann/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rkgyann/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/rkgyann/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/rkgyann/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/rkgyann/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/rkgyann/Leetcode/tree/master/0509-fibonacci-number) |
@@ -176,4 +178,24 @@ Leetcode Questions Practice
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/rkgyann/Leetcode/tree/master/0412-fizz-buzz) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rkgyann/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rkgyann/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rkgyann/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rkgyann/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rkgyann/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
